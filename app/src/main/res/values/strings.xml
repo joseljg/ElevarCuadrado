@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Elevar al cuadrado</string>
+    <string name="txt_resultado">0</string>
+    <string name="txt_bt_elevarcuadrado">Elevar al cuadrado</string>
+    <string name="txt_label_numero">Numero:</string>
+    <string name="txt_edt_numero">Escribe un numero decimal:</string>
+</resources>
